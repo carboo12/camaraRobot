@@ -1,6 +1,6 @@
-# camaraRobot Proyecto en java con opencv, el cual capturala imagen de la camarawb de la pc, luego se conecta a l servidor de Robot Studio para mover  un braso 
-mecanico.
+# camaraRobot Proyecto en java con opencv.
 
+, el cual captura la imagen de la camarawb de la pc, luego se conecta al servidor de Robot Studio para mover un braso
 la conexion es por una dirección IP estatica.
 
 la librerioa  que se utili en el proyexto el opencv 4.6.0 
